@@ -1,0 +1,61 @@
+ACME Inc.		Uso do espaÁo em disco pelos usuarios
+----------------------------------------------------------
+Nr.  Usu·rio		EspaÁo utilizado	% do uso
+1 - alexandre           437,88 MB                0,13%               
+2 - anderson            1195,87 MB               0,36%               
+3 - antonio             118,52 MB                0,04%               
+4 - carlos              87,61 MB                 0,03%               
+5 - cesar               0,95 MB                  0,00%               
+6 - rosemary            757,88 MB                0,23%               
+7 - Alexandre           52360,74 MB              15,86%              
+8 - Eduardo             20384,76 MB              6,18%               
+9 - Henrique            8395,67 MB               2,54%               
+10- Murilo              119159,48 MB             36,10%              
+11- Theo                43431,89 MB              13,16%              
+12- Andr√©              3986,16 MB               1,21%               
+13- Enrico              46477,97 MB              14,08%              
+14- Henry               4331,66 MB               1,31%               
+15- Nathan              4359,88 MB               1,32%               
+16- Thiago              948,36 MB                0,29%               
+17- Ant√¥nio            612,37 MB                0,19%               
+18- Enzo                546,95 MB                0,17%               
+19- Ian                 602,94 MB                0,18%               
+20- Ot√°vio             350,72 MB                0,11%               
+21- Thomas              161,42 MB                0,05%               
+22- Augusto             222,36 MB                0,07%               
+23- Erick               546,95 MB                0,17%               
+24- Isaac               463,51 MB                0,14%               
+25- Pietro              161,42 MB                0,05%               
+26- Vicente             706,76 MB                0,21%               
+27- Breno               168,85 MB                0,05%               
+28- Felipe              350,72 MB                0,11%               
+29- Jo√£o               350,72 MB                0,11%               
+30- Rafael              161,42 MB                0,05%               
+31- Vin√≠cius           706,76 MB                0,21%               
+32- Bruno               641,34 MB                0,19%               
+33- Fernando            350,72 MB                0,11%               
+34- Kaique              302,66 MB                0,09%               
+35- Raul                553,16 MB                0,17%               
+36- Vitor               612,37 MB                0,19%               
+37- Caio                161,42 MB                0,05%               
+38- Francisco           168,85 MB                0,05%               
+39- Leonardo            816,32 MB                0,25%               
+40- Rian                816,32 MB                0,25%               
+41- Yago                706,76 MB                0,21%               
+42- Cau√£               602,94 MB                0,18%               
+43- Frederico           949,92 MB                0,29%               
+44- Luan                895,65 MB                0,27%               
+45- Ricardo             922,37 MB                0,28%               
+46- Ygor                932,14 MB                0,28%               
+47- Daniel              915,60 MB                0,28%               
+48- Guilherme           880,58 MB                0,27%               
+49- Lucas               879,75 MB                0,27%               
+50- Rodrigo             877,14 MB                0,27%               
+51- Yuri                915,60 MB                0,28%               
+52- Danilo              895,65 MB                0,27%               
+53- Gustavo             921,40 MB                0,28%               
+54- Mathias             915,60 MB                0,28%               
+55- Samuel              880,58 MB                0,27%               
+
+EspaÁo total ocupado: 330063.97 MB
+EspaÁo mÈdia ocupado: 6001.16 MB
